@@ -1,9 +1,14 @@
-# spaceapps-kushimoto-sample
+# Global-warming
 
-NASA Space Apps Challenge Kushimoto 事前ワークショップデモ
+NASAハッカソン　space　apps challenge　IN　串本
 
 
-# 謝辞
-地理院地図Vector（仮称）のベクトルタイルを使って地図語りを試した（UNVTとMapLibreを利用）を利用させて頂いています。
+南極
+https://www.eorc.jaxa.jp/earthview/2008/tp080206.html
 
-https://qiita.com/T-ubu/items/b970339a49d8f584acf6
+
+北極
+https://ads.nipr.ac.jp/vishop/#/monitor
+
+
+
